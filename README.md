@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 <img src="https://komarev.com/ghpvc/?username=SERENGOKYILDIZ&&style=plastics&&color=green" align="right"/> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+Semi+Eren+Gokyildiz's+Github+Page;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+github+page;)
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 

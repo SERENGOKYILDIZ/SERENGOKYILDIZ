@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on Embedded software projects<br>🌱 I’m currently learning STM32 RTOS and Android<br>📫 How to reach me: Via the mail route and ilinkedin
+🔭 I’m currently working on Embedded software projects<br>🌱 I’m currently learning STM32 RTOS and Android<br>📫 How to reach me: Mail and Linkedin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semi-eren-gokyildiz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCBu9dD86skxgjfn1S6CP4Hg) 

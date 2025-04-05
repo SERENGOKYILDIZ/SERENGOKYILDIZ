@@ -34,3 +34,5 @@ I'm **Semi Eren Gökyıldız**, a passionate Mechatronics Engineering student an
 
 - [LinkedIn](https://www.linkedin.com/in/semi-eren-gokyildiz/)
 - [Email](mailto:gokyildizsemieren@gmail.com)
+- ☕ Buy me a coffee: [jaybicov](https://www.buymeacoffee.com/jaybicov)
+

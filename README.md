@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hello! 👋
 
-I'm **Semi Eren Gökyıldız**, a passionate Mechatronics Engineering student and embedded systems enthusiast. I love working on innovative projects that combine hardware and software to create practical solutions. 🚀
+I'm **Semi Eren Gökyıldız**, a dedicated Mechatronics Engineering student and embedded systems enthusiast. I specialize in bridging hardware and software to develop innovative and practical solutions that make an impact. 🚀
 
 ---
 
 ### About Me
 
-- 🔭 I’m currently working on various embedded systems projects using STM32 and ESP32.
-- 🌱 I’m currently learning advanced techniques in robotics and automation.
-- 💬 Ask me about **Embedded Systems, Arduino, STM32, and Python**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/semi-eren-gokyildiz/), [Email](mailto:gokyildizsemieren@gmail.com)
+- 🔭 Currently focused on embedded systems projects using STM32 and ESP32 platforms.
+- 🌱 Continuously advancing my skills in robotics, automation, and system integration.
+- 💬 Feel free to reach out about **Embedded Systems, Arduino, STM32, and Python**.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/semi-eren-gokyildiz/) or via [Email](mailto:gokyildizsemieren@gmail.com).
 
 ---
 
-### Languages and Tools
+### Languages & Tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STM32&logoColor=white)
@@ -34,5 +34,4 @@ I'm **Semi Eren Gökyıldız**, a passionate Mechatronics Engineering student an
 
 - [LinkedIn](https://www.linkedin.com/in/semi-eren-gokyildiz/)
 - [Email](mailto:gokyildizsemieren@gmail.com)
-- ☕ Buy me a coffee: [jaybicov](https://www.buymeacoffee.com/jaybicov)
-
+- ☕ Support me with a coffee: [buymeacoffee.com/jaybicov](https://www.buymeacoffee.com/jaybicov)
